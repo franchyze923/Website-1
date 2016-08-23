@@ -2,7 +2,7 @@
 
 $host="localhost";
 $username="franpoli_bucky";
-$password="248919";
+$password="####";
 $db_name="franpoli_webform";
 //all  this shit is to connet to DB, username is username of mysql, passord is too 
 
